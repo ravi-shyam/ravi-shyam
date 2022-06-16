@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravi-shyam
+- 👋 Hi, I’m Ravi Shyam
 - 👀 I’m interested in full stack web/app development
 - 🌱 I’m currently learning React Native, Vanilla JS and CSS
 - 💞️ I’m looking to collaborate on interesting SaaS ideas
