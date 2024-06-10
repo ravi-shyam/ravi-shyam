@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravi Shyam
 - 👀 I’m interested in full stack web/app development
-- 🌱 I’m currently learning React Native, Vanilla JS and CSS
+- 🌱 I’m currently buildimg a whatsapp bot for sleep tracking using wit.ai
 - 💞️ I’m looking to collaborate on interesting SaaS ideas
 - 📫 How to reach me? Mail me at: notifyravishyam@gmail.com
 
